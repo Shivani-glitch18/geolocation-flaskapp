@@ -70,21 +70,19 @@ This project is a simple web application built with Flask that allows users to r
 
 To run the application using Docker, following these steps:
 
-1. *Build the Docker image:*
+1. *Pull the Docker image:*
 ```
-   docker build -t geoloc .
+   docker pull shivani1820/geoloc:latest
 ```   
 
 2. *Run the Docker container:*
 ```
-   docker run --name geo-cont -p 5000:5000 --env-file .env geoloc
+   docker run -p 5000:5000 --env-file .env shivani1820/geoloc
 ```
 OR use 
 ```
-   docker run --name geo-count -p 5000:5000 --env API_KEY=<api_key> geoloc
+   docker run -p 5000:5000 --env API_KEY=<api_key> shivani1820/geoloc
 ```
 
-*Link to Docker image:*
 
-```  docker pull shivani1820/geoloc:latest ```
    
