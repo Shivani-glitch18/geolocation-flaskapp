@@ -23,7 +23,7 @@ This project is a simple web application built with Flask that allows users to r
 1. *Clone the repository:*
 ```
    git clone https://github.com/Shivani-glitch18/geolocation-flaskapp
-   cd geolocation-flask-app
+   cd geolocation-flaskapp
 ```   
 
 2. *Set up your environment variables:*
