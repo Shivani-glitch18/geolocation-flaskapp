@@ -22,7 +22,7 @@ This project is a simple web application built with Flask that allows users to r
 
 1. *Clone the repository:*
 ```
-   git clone https://github.com//geoloc
+   git clone https://github.com/Shivani-glitch18/geolocation-flaskapp
    cd geolocation-flask-app
 ```   
 
@@ -52,13 +52,16 @@ This project is a simple web application built with Flask that allows users to r
    - At the home page, information of users IP will be displayed.
      
    - Click on `search another IP` button to giving an IP address as input to fetch geolocation data.
-   
+   ![image](https://github.com/user-attachments/assets/934365bd-bd17-4756-aa41-744aba7cc2dd)
+
    
    - If the IP Address does not exist, the following error page is displayed.
-   
+   ![image](https://github.com/user-attachments/assets/cf9cfe57-9465-4414-92aa-bb154426da57)
+
    
    - Otherwise the Geolocation information of the IP given as input will be displayed.
-     
+     ![image](https://github.com/user-attachments/assets/6ca650d4-aba5-44a0-ba56-9dbedd3e58db)
+
    
    
 
