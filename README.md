@@ -83,6 +83,7 @@ OR use
 ```
    docker run -p 5000:5000 --env API_KEY=<api_key> shivani1820/geoloc
 ```
+3. The app will now be available at http://localhost:5000/.
 
 
    
